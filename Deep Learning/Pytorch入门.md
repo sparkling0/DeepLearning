@@ -1,5 +1,11 @@
+## 1 Tensor 与autograd
+![[image/Pasted image 20250319182402.png]]
+![[image/Pasted image 20250319182724.png]]
+![[image/Pasted image 20250319182734.png]]
 
 ## 数据加载
+![[image/Pasted image 20250319182759.png]]
+![[image/Pasted image 20250319182808.png]]
 为了高效地处理数据，PyTorch 提供了强大的工具，包括
 `torch.utils.data.Dataset` 和 `torch.utils.data.DataLoader`，
 帮助我们管理数据集、批量加载和数据增强等任务
